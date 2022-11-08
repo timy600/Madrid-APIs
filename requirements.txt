@@ -1,0 +1,6 @@
+pandas
+flask
+requests
+pytest
+flask-restx==1.0.3
+pre-commit
