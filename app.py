@@ -1,6 +1,6 @@
 from flask import Flask
 
-# from apis.cryptocurrency.ctrl_extract import extract_pages
+# from apis.cryptos.ctrl_extract import extract_pages
 from apis import api_bp
 
 
